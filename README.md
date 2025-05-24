@@ -25,7 +25,6 @@ Make sure the following files are in the same directory:
 ---
 
 ### Step 2: Compile Both Files
-### Step 2: Compile Both Files
 ```bash
 javac ChatServer.java
 javac ChatClient.java
